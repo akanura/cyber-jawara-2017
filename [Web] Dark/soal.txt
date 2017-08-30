@@ -1,0 +1,8 @@
+Web kami baru saja di-deface. Bantu kami untuk mengambil alih kembali.
+
+http://cj2017.ctf.idsirtii.or.id:1111/dark/
+
+Hint:
+
+No brute force
+Authenticate with $_SERVER['PHP_AUTH_USER'] & $_SERVER['PHP_AUTH_PW']

@@ -1,0 +1,10 @@
+Apakah Anda mengerti PNG?
+
+Update: Ada perubahan pada attachment. Silahkan unduh ulang.
+
+Hint:
+
+Multiple PNG
+File signature
+PNG chunk (Size)
+And try to open it in various image application

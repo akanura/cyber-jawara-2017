@@ -1,0 +1,3 @@
+Slamet baru saja membuat sebuah web sederhana. Dapatkah Anda menguji keamanannya?
+
+http://cj2017.ctf.idsirtii.or.id:1111/restricted/

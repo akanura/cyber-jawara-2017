@@ -1,0 +1,3 @@
+Sepertinya banyak yang meng-hack layanan RSA Key Generator kami. Kami telah melakukan patching terhadap celah yang ada.
+
+nc cj2k17.ctf.idsirtii.or.id 41337

@@ -1,0 +1,3 @@
+Zero day black market via terminal for leet
+
+nc cj2k17.ctf.idsirtii.or.id 21337

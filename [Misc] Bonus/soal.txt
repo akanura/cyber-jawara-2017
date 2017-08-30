@@ -1,0 +1,3 @@
+Sepertinya ada bonus di EXIF gambar ini.
+
+Format Flag: CJ2017{flag}

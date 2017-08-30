@@ -1,0 +1,3 @@
+Temukan password dari layanan ini dengan membaca disassembly-nya.
+
+nc cj2k17.ctf.idsirtii.or.id 6001

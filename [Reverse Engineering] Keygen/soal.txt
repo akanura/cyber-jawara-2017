@@ -1,0 +1,3 @@
+Buatlah 20 serial number yang valid dan validasikan di sini.
+
+nc cj2k17.ctf.idsirtii.or.id 6002
